@@ -1,0 +1,10 @@
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/bin/Debug/netcoreapp3.1/Musala.Gateways.Data.deps.json
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/bin/Debug/netcoreapp3.1/Musala.Gateways.Data.runtimeconfig.json
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/bin/Debug/netcoreapp3.1/Musala.Gateways.Data.runtimeconfig.dev.json
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/bin/Debug/netcoreapp3.1/Musala.Gateways.Data.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/bin/Debug/netcoreapp3.1/Musala.Gateways.Data.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/obj/Debug/netcoreapp3.1/Musala.Gateways.Data.csprojAssemblyReference.cache
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/obj/Debug/netcoreapp3.1/Musala.Gateways.Data.AssemblyInfoInputs.cache
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/obj/Debug/netcoreapp3.1/Musala.Gateways.Data.AssemblyInfo.cs
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/obj/Debug/netcoreapp3.1/Musala.Gateways.Data.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Data/obj/Debug/netcoreapp3.1/Musala.Gateways.Data.pdb

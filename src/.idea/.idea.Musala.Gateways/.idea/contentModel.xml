@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Api" t="Include">
+        <e p="Musala.Gateways.Api" t="IncludeRecursive">
+          <e p="appsettings.Development.json" t="Include" />
+          <e p="appsettings.json" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Controllers" t="Include">
+            <e p="Base" t="Include">
+              <e p="BaseController.cs" t="Include" />
+            </e>
+            <e p="DeviceController.cs" t="Include" />
+            <e p="GatewayController.cs" t="Include" />
+            <e p="WeatherForecastController.cs" t="Include" />
+          </e>
+          <e p="Musala.Gateways.Api.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Musala.Gateways.Api.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="launchSettings.json" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+          <e p="WeatherForecast.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Application" t="Include">
+        <e p="Musala.Gateways.Application" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Device" t="Include">
+            <e p="Command" t="Include">
+              <e p="AddDevice" t="Include">
+                <e p="AddDeviceCommand.cs" t="Include" />
+                <e p="AddDeviceCommandHandler.cs" t="Include" />
+              </e>
+              <e p="DeleteDevice" t="Include">
+                <e p="DeleteDeviceCommand.cs" t="Include" />
+                <e p="DeleteDeviceCommandHandler.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Query" t="Include">
+              <e p="GetDevice" t="Include">
+                <e p="GetDeviceQuery.cs" t="Include" />
+                <e p="GetDeviceQueryHandler.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Gateway" t="Include">
+            <e p="Command" t="Include">
+              <e p="AddGateway" t="Include">
+                <e p="AddGatewayCommand.cs" t="Include" />
+                <e p="AddGatewayCommandHandler.cs" t="Include" />
+                <e p="AddGatewayCommandValidator.cs" t="Include" />
+              </e>
+              <e p="UpdateGateway" t="Include">
+                <e p="UpdateGatewayCommand.cs" t="Include" />
+                <e p="UpdateGatewayCommandHandler.cs" t="Include" />
+                <e p="UpdateGatewayCommandValidator.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Query" t="Include">
+              <e p="GetAllGateways" t="Include">
+                <e p="GetAllGatewaysQuery.cs" t="Include" />
+                <e p="GetAllGatewaysQueryHandler.cs" t="Include" />
+              </e>
+              <e p="GetGateway" t="Include">
+                <e p="GetGatewayQuery.cs" t="Include" />
+                <e p="GetGatewayQueryHandler.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Musala.Gateways.Application.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Musala.Gateways.Application.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Core" t="Include">
+        <e p="Musala.Gateways.Core" t="IncludeRecursive">
+          <e p="Behaviors" t="Include">
+            <e p="LoggingBehavior.cs" t="Include" />
+            <e p="RequestValidationBehavior.cs" t="Include" />
+          </e>
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Constants" t="Include">
+            <e p="Constants.cs" t="Include" />
+          </e>
+          <e p="Exceptions" t="Include">
+            <e p="Base" t="Include">
+              <e p="BaseException.cs" t="Include" />
+            </e>
+            <e p="Common" t="Include">
+              <e p="DependantChildException.cs" t="Include" />
+              <e p="NotFoundException.cs" t="Include" />
+              <e p="UniqueException.cs" t="Include" />
+              <e p="ValidationException.cs" t="Include" />
+            </e>
+            <e p="Gateway" t="Include">
+              <e p="FullGatewayException.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Extensions" t="Include">
+            <e p="ExceptionMiddlewareExtensions.cs" t="Include" />
+            <e p="GenericTypeExtensions.cs" t="Include" />
+          </e>
+          <e p="Middlewares" t="Include">
+            <e p="ExceptionMiddleware.cs" t="Include" />
+          </e>
+          <e p="Musala.Gateways.Core.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Musala.Gateways.Core.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Responses" t="Include">
+            <e p="ApiResponse.cs" t="Include" />
+            <e p="ErrorResponse.cs" t="Include" />
+            <e p="FileResponse.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Musala.Gateways.Domain" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="DI" t="Include">
+            <e p="IoC.cs" t="Include" />
+          </e>
+          <e p="Mappings" t="Include">
+            <e p="MappingProfile.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="DeviceModel.cs" t="Include" />
+            <e p="GatewayModel.cs" t="Include" />
+          </e>
+          <e p="Musala.Gateways.Domain.csproj" t="IncludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="Musala.Gateways.Domain.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Orchestrators" t="Include">
+            <e p="Base" t="Include">
+              <e p="BaseOrchestrator.cs" t="Include" />
+            </e>
+            <e p="DeviceOrchestrator.cs" t="Include" />
+            <e p="GatewayOrchestrator.cs" t="Include" />
+            <e p="IDeviceOrchestrator.cs" t="Include" />
+            <e p="IGatewayOrchestrator.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="Base" t="Include">
+              <e p="BaseService.cs" t="Include" />
+              <e p="IBaseService.cs" t="Include" />
+            </e>
+            <e p="Interfaces" t="Include">
+              <e p="IDeviceService.cs" t="Include" />
+              <e p="IGatewayService.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Infraestructure" t="Include">
+        <e p="Persistence" t="Include">
+          <e p="Musala.Gateways.Data" t="IncludeRecursive">
+            <e p="bin" t="ExcludeRecursive" />
+            <e p="Database" t="Include">
+              <e p="DatDevice.cs" t="Include" />
+              <e p="DatGateway.cs" t="Include" />
+              <e p="GatewayContext.cs" t="Include" />
+            </e>
+            <e p="Entity" t="Include">
+              <e p="Base" t="Include">
+                <e p="Entity.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Musala.Gateways.Data.csproj" t="IncludeRecursive" />
+            <e p="obj" t="ExcludeRecursive">
+              <e p="Debug" t="Include">
+                <e p="netcoreapp3.1" t="Include">
+                  <e p="Musala.Gateways.Data.AssemblyInfo.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Musala.Gateways.Persistence" t="IncludeRecursive">
+            <e p="bin" t="ExcludeRecursive" />
+            <e p="DI" t="Include">
+              <e p="IoC.cs" t="Include" />
+            </e>
+            <e p="Musala.Gateways.Persistence.csproj" t="IncludeRecursive" />
+            <e p="obj" t="ExcludeRecursive">
+              <e p="Debug" t="Include">
+                <e p="netcoreapp3.1" t="Include">
+                  <e p="Musala.Gateways.Persistence.AssemblyInfo.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Services" t="Include">
+              <e p="DeviceService.cs" t="Include" />
+              <e p="GatewayService.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Musala.Gateways.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Musala.Gateways.-1141014902.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>

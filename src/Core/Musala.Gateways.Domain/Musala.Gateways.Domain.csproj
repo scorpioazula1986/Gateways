@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Infraestructure\Persistence\Musala.Gateways.Data\Musala.Gateways.Data.csproj" />
+      <ProjectReference Include="..\Musala.Gateways.Core\Musala.Gateways.Core.csproj" />
+    </ItemGroup>
+
+</Project>

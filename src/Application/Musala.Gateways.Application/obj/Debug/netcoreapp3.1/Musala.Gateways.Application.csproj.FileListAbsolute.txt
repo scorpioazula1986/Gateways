@@ -1,0 +1,15 @@
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/bin/Debug/netcoreapp3.1/Musala.Gateways.Application.deps.json
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/bin/Debug/netcoreapp3.1/Musala.Gateways.Application.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/bin/Debug/netcoreapp3.1/Musala.Gateways.Application.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/bin/Debug/netcoreapp3.1/Musala.Gateways.Data.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/bin/Debug/netcoreapp3.1/Musala.Gateways.Data.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/obj/Debug/netcoreapp3.1/Musala.Gateways.Application.csprojAssemblyReference.cache
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/obj/Debug/netcoreapp3.1/Musala.Gateways.Application.AssemblyInfoInputs.cache
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/obj/Debug/netcoreapp3.1/Musala.Gateways.Application.AssemblyInfo.cs
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/obj/Debug/netcoreapp3.1/Musala.Gateways.Application.csproj.CopyComplete
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/obj/Debug/netcoreapp3.1/Musala.Gateways.Application.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/obj/Debug/netcoreapp3.1/Musala.Gateways.Application.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/bin/Debug/netcoreapp3.1/Musala.Gateways.Core.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/bin/Debug/netcoreapp3.1/Musala.Gateways.Domain.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/bin/Debug/netcoreapp3.1/Musala.Gateways.Domain.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Application/Musala.Gateways.Application/bin/Debug/netcoreapp3.1/Musala.Gateways.Core.pdb

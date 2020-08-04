@@ -1,0 +1,15 @@
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/bin/Debug/netcoreapp3.1/Musala.Gateways.Persistence.deps.json
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/bin/Debug/netcoreapp3.1/Musala.Gateways.Persistence.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/bin/Debug/netcoreapp3.1/Musala.Gateways.Persistence.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/bin/Debug/netcoreapp3.1/Musala.Gateways.Data.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/bin/Debug/netcoreapp3.1/Musala.Gateways.Data.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/obj/Debug/netcoreapp3.1/Musala.Gateways.Persistence.csprojAssemblyReference.cache
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/obj/Debug/netcoreapp3.1/Musala.Gateways.Persistence.AssemblyInfoInputs.cache
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/obj/Debug/netcoreapp3.1/Musala.Gateways.Persistence.AssemblyInfo.cs
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/obj/Debug/netcoreapp3.1/Musala.Gateways.Persistence.csproj.CopyComplete
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/obj/Debug/netcoreapp3.1/Musala.Gateways.Persistence.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/obj/Debug/netcoreapp3.1/Musala.Gateways.Persistence.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/bin/Debug/netcoreapp3.1/Musala.Gateways.Core.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/bin/Debug/netcoreapp3.1/Musala.Gateways.Domain.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/bin/Debug/netcoreapp3.1/Musala.Gateways.Domain.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Infraestructure/Persistence/Musala.Gateways.Persistence/bin/Debug/netcoreapp3.1/Musala.Gateways.Core.pdb

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d409c25-dad5-4c67-80df-3972719c3fcd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Api/Musala.Gateways.Api/Controllers/DeviceController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Exceptions/Common/DependantChildException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Query/GetDevice/GetDeviceQueryHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Exceptions/Common/NotFoundException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Exceptions/Common/ValidationException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Query/GetDevice/GetDeviceQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Exceptions/Common/UniqueException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Exceptions/Base/BaseException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/DeleteDevice/DeleteDeviceCommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Services/Interfaces/IGatewayService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/DeleteDevice/DeleteDeviceCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Services/Interfaces/IDeviceService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Data/Database/DatDevice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Extensions/GenericTypeExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Data/Database/DatGateway.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Extensions/ExceptionMiddlewareExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Data/Database/GatewayContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Models/GatewayModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Models/DeviceModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Behaviors/LoggingBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Exceptions/Gateway/FullGatewayException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Behaviors/RequestValidationBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Mappings/MappingProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/AddGateway/AddGatewayCommandValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/AddGateway/AddGatewayCommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/AddGateway/AddGatewayCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Orchestrators/IGatewayOrchestrator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Orchestrators/GatewayOrchestrator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Query/GetAllGateways/GetAllGatewaysQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/AddDevice/AddDeviceCommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Query/GetAllGateways/GetAllGatewaysQueryHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/AddDevice/AddDeviceCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/UpdateGateway/UpdateGatewayCommandValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Orchestrators/DeviceOrchestrator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/UpdateGateway/UpdateGatewayCommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Orchestrators/IDeviceOrchestrator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/UpdateGateway/UpdateGatewayCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Api/Musala.Gateways.Api/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Api/Musala.Gateways.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/DI/IoC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Api/Musala.Gateways.Api/Controllers/GatewayController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Data/Entity/Base/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Services/Base/IBaseService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Services/Base/BaseService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Constants/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Query/GetGateway/GetGatewayQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Query/GetGateway/GetGatewayQueryHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Responses/FileResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Responses/ErrorResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Responses/ApiResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Core/Middlewares/ExceptionMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Persistence/Services/DeviceService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Core/Musala.Gateways.Domain/Orchestrators/Base/BaseOrchestrator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Persistence/Services/GatewayService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Core/Musala.Gateway.Domain/Orchestrators/Base/BaseOrchestrator.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Class1.cs" />
+        <option value="$PROJECT_DIR$/Api/Musala.Gateways.Api/appsettings.json" />
+        <option value="$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Data/Migrations/InitialCreate.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateway.Domain/Services/Base/BaseService.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateway.Domain/Models/GatewayModel.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateway.Domain/Models/DeviceModel.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateway.Domain/Mappings/MappingProfile.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateway.Domain/Services/Interfaces/IGatewayService.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateway.Domain/Services/Interfaces/IDeviceService.cs" />
+        <option value="$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Persistence/Services/DeviceService.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateway.Domain/Orchestrators/GatewayOrchestrator.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/AddGateway/AddGatewayCommand.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/AddGateway/AddGatewayCommandHandler.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/DeleteGateway/DeleteGatewayCommand.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/DeleteGateway/DeleteGatewayCommandHandler.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Query/GetAllGateways/GetAllGatewaysQuery.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Query/GetAllGateways/GetAllGatewaysQueryHandler.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/UpdateGateway/UpdateGatewayCommand.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Command/UpdateGateway/UpdateGatewayCommandHandler.cs" />
+        <option value="$PROJECT_DIR$/Api/Musala.Gateways.Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Data/Database/DatDevice.cs" />
+        <option value="$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Data/Database/DatGateway.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/AddDevice/AddDeviceCommand.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateways.Core/Constants/Constants.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateways.Core/Exceptions/Gateway/FullGatewayException.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateways.Core/Middlewares/ExceptionMiddleware.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateways.Domain/Services/Interfaces/IDeviceService.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateways.Domain/Orchestrators/IDeviceOrchestrator.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateways.Domain/Orchestrators/DeviceOrchestrator.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/AddDevice/AddDeviceCommandHandler.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/UpdateDevice/UpdateDeviceCommand.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/UpdateDevice/UpdateDeviceCommandHandler.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/DeleteDevice/DeleteDeviceCommand.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/DeleteDevice/DeleteDeviceCommandHandler.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/AddDevice/AddDeviceCommand.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/AddDevice/AddDeviceCommandHandler.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/DeleteDevice/DeleteDeviceCommand.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/DeleteDevice/DeleteDeviceCommandHandler.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/UpdateDevice/UpdateDeviceCommand.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Command/UpdateDevice/UpdateDeviceCommandHandler.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Query/GetDevice/GetDeviceQuery.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Device/Query/GetDevice/GetDeviceQueryHandler.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateways.Domain/DI/IoC.cs" />
+        <option value="$PROJECT_DIR$/Api/Musala.Gateways.Api/Controllers/DeviceController.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Query/GetGateway/GetGatewayQuery.cs" />
+        <option value="$PROJECT_DIR$/Application/Musala.Gateways.Application/Gateway/Query/GetGateway/GetGatewayQueryHandler.cs" />
+        <option value="$PROJECT_DIR$/Api/Musala.Gateways.Api/Controllers/GatewayController.cs" />
+        <option value="$PROJECT_DIR$/Infraestructure/Persistence/Musala.Gateways.Persistence/Services/GatewayService.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateways.Domain/Services/Interfaces/IGatewayService.cs" />
+        <option value="$PROJECT_DIR$/Core/Musala.Gateways.Domain/Orchestrators/GatewayOrchestrator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fPgiIgUkh4GEJS47EKoMZO1iJy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Musala.Gateways.Api">
+    <configuration name="Musala.Gateways.Api" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Api/Musala.Gateways.Api/Musala.Gateways.Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="Musala.Gateways.Api" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Musala.Gateways.Api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Api/Musala.Gateways.Api/Musala.Gateways.Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d409c25-dad5-4c67-80df-3972719c3fcd" name="Default Changelist" comment="" />
+      <created>1596125267260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596125267260</updated>
+      <workItem from="1596125269165" duration="810000" />
+      <workItem from="1596197087299" duration="427000" />
+      <workItem from="1596315692706" duration="1767000" />
+      <workItem from="1596416071995" duration="1274000" />
+      <workItem from="1596419226076" duration="340000" />
+      <workItem from="1596420921465" duration="1610000" />
+      <workItem from="1596422769136" duration="1203000" />
+      <workItem from="1596427093273" duration="30000" />
+      <workItem from="1596429390378" duration="1780000" />
+      <workItem from="1596431508505" duration="1779000" />
+      <workItem from="1596433421483" duration="1105000" />
+      <workItem from="1596434907825" duration="290000" />
+      <workItem from="1596435238251" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom" timestamp="1596435619334">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1596435619334" />
+    <state width="1238" height="176" key="GridCell.Tab.0.center" timestamp="1596435619334">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1596435619334" />
+    <state width="1238" height="176" key="GridCell.Tab.0.left" timestamp="1596435619333">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1596435619333" />
+    <state width="1238" height="176" key="GridCell.Tab.0.right" timestamp="1596435619334">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state width="1238" height="176" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1596435619334" />
+    <state x="275" y="140" key="Rider.ProjectTemplateDialog.Size" timestamp="1596419528836">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="275" y="140" key="Rider.ProjectTemplateDialog.Size/0.23.1280.714@0.23.1280.714" timestamp="1596419528836" />
+    <state x="240" y="118" key="Rider.ProjectTemplateDialog.Size/0.23.1280.717@0.23.1280.717" timestamp="1596125475095" />
+    <state x="403" y="76" key="RiderGenerateDialog" timestamp="1596430905032">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="403" y="76" key="RiderGenerateDialog/0.23.1280.716@0.23.1280.716" timestamp="1596430905032" />
+  </component>
+</project>

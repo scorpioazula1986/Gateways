@@ -1,0 +1,8 @@
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Core/Musala.Gateways.Core/bin/Debug/netcoreapp3.1/Musala.Gateways.Core.deps.json
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Core/Musala.Gateways.Core/bin/Debug/netcoreapp3.1/Musala.Gateways.Core.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Core/Musala.Gateways.Core/bin/Debug/netcoreapp3.1/Musala.Gateways.Core.pdb
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Core/Musala.Gateways.Core/obj/Debug/netcoreapp3.1/Musala.Gateways.Core.csprojAssemblyReference.cache
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Core/Musala.Gateways.Core/obj/Debug/netcoreapp3.1/Musala.Gateways.Core.AssemblyInfoInputs.cache
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Core/Musala.Gateways.Core/obj/Debug/netcoreapp3.1/Musala.Gateways.Core.AssemblyInfo.cs
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Core/Musala.Gateways.Core/obj/Debug/netcoreapp3.1/Musala.Gateways.Core.dll
+/Users/retina/Documents/Proyectos/Web/Desarrollo/Gateways/src/Core/Musala.Gateways.Core/obj/Debug/netcoreapp3.1/Musala.Gateways.Core.pdb
