@@ -58,7 +58,7 @@
   "dependencies": {
     "@coreui/coreui": "^3.2.2",
     "@coreui/vue": "^3.0.12",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "devextreme": "20.1.4",
     "devextreme-vue": "20.1.4",
     "dhtmlx-scheduler": "^5.3.9",
